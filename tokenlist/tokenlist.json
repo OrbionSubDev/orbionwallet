@@ -1,0 +1,16 @@
+{
+  "name": "Orbion Multichain Token List",
+  "logoURI": "https://github.com/OrbionSubDev/orbionwallet/blob/main/tokenlist/logo.png?raw=true",
+  "keywords": ["orbion", "multichain", "tokenlist", "evm"],
+  "timestamp": "2025-07-04T12:00:00Z",
+  "tokens": [
+    {
+      "chainId": 109901,
+      "address": "0x116b176ccae79dF2E987df5895ddc6f4Cb715f55",
+      "name": "Wrapped ORB",
+      "symbol": "WORB",
+      "decimals": 18,
+      "logoURI": "https://github.com/OrbionSubDev/orbionwallet/blob/main/tokenlist/logos/worb.png?raw=true"
+    }
+  ]
+}
