@@ -19,6 +19,14 @@
       "symbol": "ORB",
       "decimals": 18,
       "logoURI": "https://github.com/OrbionSubDev/orbionwallet/blob/main/tokenlist/logos/0x9f20d823e9e1da1935155ba643c650abca5936a0.png?raw=true"
+    },
+    {
+      "chainId": 56,
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "name": "USDT-BEP20",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://github.com/OrbionSubDev/orbionwallet/blob/main/tokenlist/logos/0x55d398326f99059ff775485246999027b3197955.png?raw=true"
     }
   ]
 }
