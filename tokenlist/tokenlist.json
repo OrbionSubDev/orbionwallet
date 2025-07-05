@@ -27,6 +27,54 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://github.com/OrbionSubDev/orbionwallet/blob/main/tokenlist/logos/0x55d398326f99059ff775485246999027b3197955.png?raw=true"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "USDT-ERC20",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://github.com/OrbionSubDev/orbionwallet/blob/main/tokenlist/logos/0xdac17f958d2ee523a2206206994597c13d831ec7.png?raw=true"
+    },
+    {
+      "chainId": 109901,
+      "address": "0x45CeB19222E5bFd5866C600111e9A2e1d3d36b39",
+      "name": "USDT-ORBION",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://github.com/OrbionSubDev/orbionwallet/blob/main/tokenlist/logos/0x45CeB19222E5bFd5866C600111e9A2e1d3d36b39.png?raw=true"
+    },
+    {
+      "chainId": 56,
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "name": "USDC-BEP20",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://github.com/OrbionSubDev/orbionwallet/blob/main/tokenlist/logos/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png?raw=true"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USDC-ERC20",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://github.com/OrbionSubDev/orbionwallet/blob/main/tokenlist/logos/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png?raw=true"
+    },
+    {
+      "chainId": 56,
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://github.com/OrbionSubDev/orbionwallet/blob/main/tokenlist/logos/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png?raw=true"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://github.com/OrbionSubDev/orbionwallet/blob/main/tokenlist/logos/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png?raw=true"
     }
   ]
 }
