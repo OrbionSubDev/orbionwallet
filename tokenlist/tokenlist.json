@@ -89,7 +89,7 @@
       "address": "0xf817257fed379853cde0fa4f97ab987181b1e5ea",
       "name": "USDC-Monad",
       "symbol": "USDC",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://github.com/OrbionSubDev/orbionwallet/blob/main/tokenlist/logos/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png?raw=true"
     }
   ]
